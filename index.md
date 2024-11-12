@@ -1,10 +1,6 @@
 mperona@ucsd.edu <br>
 B05 - Jingbo Shang <br>
 
-The answers to the following four prompts, which are meant to help you brainstorm for your Quarter 2 Project Proposal, due on December 2nd. 
-For each prompt, state the question that you’re answering in bold and write your answer immediately underneath on a new line. 
-Make sure you’ve familarized yourself with the Quarter 2 Project Proposal specifications before proceeding!
-
 **What is the most interesting topic covered in your domain this quarter?**
 
 The most interesting topic covered in my domain this quarter was model distillation. I thought that the idea of condensing the learning from larger models to smaller, more purpose built ones, is cool. 
